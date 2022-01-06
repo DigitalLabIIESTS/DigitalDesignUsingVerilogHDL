@@ -1,7 +1,0 @@
-Vivado Simulator 2019.1
-Time resolution is 1 ps
-sum_out 0000 carry_out 0 overflow 0 negative 0 zero 1 a_in 0000 b_in 0000 carry_in 0
-sum_out 1111 carry_out 0 overflow 0 negative 1 zero 0 a_in 1011 b_in 0100 carry_in 0
-sum_out 1101 carry_out 1 overflow 0 negative 1 zero 0 a_in 1111 b_in 1101 carry_in 1
-sum_out 1000 carry_out 0 overflow 1 negative 0 zero 0 a_in 0111 b_in 0001 carry_in 0
-$stop called at time : 90 ns : File "C:/Xilinx/Binit/FullAdder/FullAdder.srcs/sim_1/new/twos_comp_adder_tb.v" Line 31
