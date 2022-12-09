@@ -4,7 +4,7 @@ parameter N=2;
 reg clk,up_or_down;
 wire [N-1:0] count;
 
-up_or_down_counter #(.N(N))mut (clk,up_or_down,count);
+    up_down_counter #(.N(N))UPDOWN (clk,up_or_down,count);
 
 initial clk = 0;
 
