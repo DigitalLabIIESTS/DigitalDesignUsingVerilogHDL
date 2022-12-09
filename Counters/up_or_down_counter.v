@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module up_counter(led, clk, rst, updown);
+module up_down_counter(led, clk, rst, updown);
     output [3:0] led;
     input clk, rst,updown;
     reg [3:0] led;
